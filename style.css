@@ -1,0 +1,13 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+}
+.plyr {
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.list-group {
+    width: 350px;
+    margin: auto;
+}
